@@ -31,15 +31,15 @@
 #from random import*
 #s = randint(1,30)
 #m = 0
-#max = 0
-#min = 6
+#maX = 0
+#miN = 6
 #for i in range(s):
 #    m = randint(1,5)
-#    if m>max:
-#        max = m
-#    elif m<min:
-#        min = m
-#print("Минимальная оценка ",min,", а максимальная ",max)
+#    if m>maX:
+#        maX = m
+#    elif m<miN:
+#        miN = m
+#print("Минимальная оценка ",miN,", а максимальная ",maX)
 # 4
 #ameba = 1
 #l=0
